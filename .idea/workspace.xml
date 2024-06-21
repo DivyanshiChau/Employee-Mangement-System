@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33b01ac6-0424-4218-9ba1-2e3733be240f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hq4zSTbHFLn9RqxTQPjFPnyemb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddEmployeeMedicalRecord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddFamilyMemberMedicalRecord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Add_Emp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Attendance (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Attendance (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Attendance (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Attendance (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Attendance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Attendence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Del_Emp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_class (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_class (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_class (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_class (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MedicalRecordApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Splash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Update_Emp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ViewAttendance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ViewEmployeeMedicalRecord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ViewFamilyMemberMedicalRecord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.View_Emp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/mysql-connector-java-8.0.28.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/chaud/Employee management system/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main_class">
+    <configuration name="AddEmployeeMedicalRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.AddEmployeeMedicalRecord" />
+      <module name="Employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.Login" />
+      <module name="Employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.Main_class" />
+      <module name="Employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Splash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.Splash" />
+      <module name="Employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewAttendance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.ViewAttendance" />
+      <module name="Employee management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_class" />
+        <item itemvalue="Application.Splash" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.AddEmployeeMedicalRecord" />
+        <item itemvalue="Application.ViewAttendance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33b01ac6-0424-4218-9ba1-2e3733be240f" name="Changes" comment="" />
+      <created>1718308538768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718308538768</updated>
+      <workItem from="1718308539899" duration="24415000" />
+      <workItem from="1718645535614" duration="5000" />
+      <workItem from="1718719540657" duration="7464000" />
+      <workItem from="1718801262129" duration="24614000" />
+      <workItem from="1718857707694" duration="13775000" />
+      <workItem from="1718997078512" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
