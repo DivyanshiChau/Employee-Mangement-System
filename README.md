@@ -12,4 +12,5 @@ knowledge is needed for the user to use this system. This project will allow
 admin to add new employees after proper authentication. Database stores all
 personal details of employees such as date of birth full name etc.
 
+![image](https://github.com/DivyanshiChau/Employee-Mangement-System/assets/148802032/b3339320-0c19-42db-b9ef-c377a19eb283)
 
