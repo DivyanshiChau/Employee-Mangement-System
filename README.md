@@ -25,6 +25,8 @@ personal details of employees such as date of birth full name etc.
 
 
 ::APPLICATIONS::
+
+
 1.HR Management: The Employee Management System automates critical HR functions such as 
 employee record-keeping, attendance tracking, leave management, and salary processing. This 
 automation ensures that all employee-related information is maintained accurately and updated in 
